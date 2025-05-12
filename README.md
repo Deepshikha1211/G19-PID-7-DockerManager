@@ -31,19 +31,6 @@ This is a **Linux-based GUI tool** built using **Python Tkinter** to manage Dock
 
 ---
 
-##  Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/docker-manager-ui.git
-   cd docker-manager-ui
-
-2. **Run the Script**:
-  ```bash
-   python3 docker_gui.py
-```
-
-
 ##  Usage Instructions
 - Launch the application using python3 docker_gui.py
 
